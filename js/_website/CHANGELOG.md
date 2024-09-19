@@ -1,5 +1,11 @@
 # website
 
+## 0.40.0
+
+### Features
+
+- [#9379](https://github.com/gradio-app/gradio/pull/9379) [`0cad5f3`](https://github.com/gradio-app/gradio/commit/0cad5f348a846024b95b92fb48f88137ccfcd589) - Testing CI.  Thanks @aliabd!
+
 ## 0.39.0
 
 ### Features
