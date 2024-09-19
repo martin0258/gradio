@@ -1,5 +1,11 @@
 # @gradio/utils
 
+## 0.7.0-beta.2
+
+### Features
+
+- [#9363](https://github.com/gradio-app/gradio/pull/9363) [`3ad28c7`](https://github.com/gradio-app/gradio/commit/3ad28c7e310e8589e0c53b7efee8031e129bece8) - Prevent HTML and Markdown height changing when status is hidden.  Thanks @hannahblair!
+
 ## 0.7.0-beta.1
 
 ### Features

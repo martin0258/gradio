@@ -1,5 +1,22 @@
 # @gradio/imageeditor
 
+## 0.11.0-beta.2
+
+### Features
+
+- [#9250](https://github.com/gradio-app/gradio/pull/9250) [`350b0a5`](https://github.com/gradio-app/gradio/commit/350b0a5cafb9176f914f62e7c90de51d4352cc77) - Improve Icon Button consistency.  Thanks @hannahblair!
+- [#9371](https://github.com/gradio-app/gradio/pull/9371) [`7bf3e99`](https://github.com/gradio-app/gradio/commit/7bf3e9989392b7edcdc18c1d840fb8130b15040e) - Fix `gr.ImageEditor` toolbar cutoff.  Thanks @hannahblair!
+
+### Dependency updates
+
+- @gradio/atoms@0.9.0-beta.2
+- @gradio/upload@0.13.0-beta.2
+- @gradio/wasm@0.14.0-beta.2
+- @gradio/icons@0.8.0-beta.2
+- @gradio/statustracker@0.8.0-beta.2
+- @gradio/utils@0.7.0-beta.2
+- @gradio/image@0.16.0-beta.2
+
 ## 0.11.0-beta.1
 
 ### Features
